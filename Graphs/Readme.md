@@ -8,7 +8,7 @@ BFS
 4. https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 
 DFS
-1. https://www.hackerrank.com/challenges/journey-to-the-moon/problem
+1. https://www.hackerrank.com/challenges/journey-to-the-moon/problem   [Done]
 2. https://leetcode.com/problems/reconstruct-itinerary/submissions/
 3. https://leetcode.com/problems/maximum-path-quality-of-a-graph/
 4. https://leetcode.com/problems/couples-holding-hands/
